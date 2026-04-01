@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github.com/fvkid/fvkid/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/vvhite-star.png" width="37.5" />
-  <img src="https://github.com/fvkid/fvkid/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/vvhite-star.png" width="75" />
-  <img src="https://github.com/fvkid/fvkid/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/vvhite-star.png" width="150" />
-  <img src="https://github.com/fvkid/fvkid/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/vvhite-star.png" width="75" />
-  <img src="https://github.com/fvkid/fvkid/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/vvhite-star.png" width="37.5" />
+  <img src="https://github.com/fvcified/fvcified/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/vvhite-star.png" width="37.5" />
+  <img src="https://github.com/fvcified/fvcified/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/vvhite-star.png" width="75" />
+  <img src="https://github.com/fvcified/fvcified/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/vvhite-star.png" width="150" />
+  <img src="https://github.com/fvcified/fvcified/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/vvhite-star.png" width="75" />
+  <img src="https://github.com/fvcified/fvcified/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/vvhite-star.png" width="37.5" />
 </div>
 
 ---
@@ -15,7 +15,7 @@
     
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&duration=4000&pause=2000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=fvnLey+Kids)](https://git.io/typing-svg)
   
-  <img src="https://github.com/fvkid/fvkid/blob/30b48e04c978fc299de733b5f95938c0f91c2eb4/pavv.png" width="200" />
+  <img src="https://github.com/fvcified/fvcified/blob/30b48e04c978fc299de733b5f95938c0f91c2eb4/pavv.png" width="200" />
   </a>
 </div>
 
@@ -48,17 +48,17 @@
       </ul>
     </td>
     <td align="center">
-      <img src="https://github.com/fvkid/fvkid/blob/0a3d818d934583c868e1bc4e1fed52cbf3365a10/w-car.png" width="91" />
-      <img src="https://github.com/fvkid/fvkid/blob/0a3d818d934583c868e1bc4e1fed52cbf3365a10/favou-car.png" width="95" />
-      <img src="https://github.com/fvkid/fvkid/blob/0a3d818d934583c868e1bc4e1fed52cbf3365a10/b-car.png" width="95" />
+      <img src="https://github.com/fvcified/fvcified/blob/0a3d818d934583c868e1bc4e1fed52cbf3365a10/w-car.png" width="91" />
+      <img src="https://github.com/fvcified/fvcified/blob/0a3d818d934583c868e1bc4e1fed52cbf3365a10/favou-car.png" width="95" />
+      <img src="https://github.com/fvcified/fvcified/blob/0a3d818d934583c868e1bc4e1fed52cbf3365a10/b-car.png" width="95" />
       <br>
-      <img src="https://github.com/fvkid/fvkid/blob/8a38a5122b9df1943a417a93cc246ba5c3424d22/rg-1.png" width="99" />
-      <img src="https://github.com/fvkid/fvkid/blob/8a38a5122b9df1943a417a93cc246ba5c3424d22/rg-2.png" width="100" />
-      <img src="https://github.com/fvkid/fvkid/blob/8a38a5122b9df1943a417a93cc246ba5c3424d22/rg-3.png" width="93" />
+      <img src="https://github.com/fvcified/fvcified/blob/8a38a5122b9df1943a417a93cc246ba5c3424d22/rg-1.png" width="99" />
+      <img src="https://github.com/fvcified/fvcified/blob/8a38a5122b9df1943a417a93cc246ba5c3424d22/rg-2.png" width="100" />
+      <img src="https://github.com/fvcified/fvcified/blob/8a38a5122b9df1943a417a93cc246ba5c3424d22/rg-3.png" width="93" />
     </td>
     <td align="center">
-      <a href="https://github.com/fvkid"><img src="https://skillicons.dev/icons?i=github" /></a>
-      <a href="https://gitlab.com/fvkid"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
+      <a href="https://github.com/fvcified"><img src="https://skillicons.dev/icons?i=github" /></a>
+      <a href="https://gitlab.com/fvcified"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
       <br>
       <a href="https://discord.com/users/634719440184803339"><img src="https://skillicons.dev/icons?i=discord" /></a>
       <a href="https://open.spotify.com/user/31gupde4ngfbbksvy5q6pb6b2474"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="48" /></a>
@@ -132,6 +132,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/fvkid/fvkid/blob/401fabac7b4ed96ed7e4de0c335186df7329f63c/no-entry.png" width="13" />
+  <img src="https://github.com/fvcified/fvcified/blob/401fabac7b4ed96ed7e4de0c335186df7329f63c/no-entry.png" width="13" />
   <font><i><b>Light theme/summat, some might NOT be visible on ya.</b></i></font>
 </p>
