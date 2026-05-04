@@ -13,7 +13,7 @@
 <div align="center">
   <a>
     
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&duration=4000&pause=2000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=fvnLey+Kids)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=39&duration=4000&pause=2000&color=6E0F1A&center=true&vCenter=true&width=435&lines=fvn+%26+Ley)](https://git.io/typing-svg)
   
   <img src="https://github.com/fvcified/fvcified/blob/e640c274504f7ae094b4b9a6ed38e400c4a20424/13.png" width="200" />
   </a>
