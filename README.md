@@ -30,7 +30,7 @@
     <th colspan="3">Find me on</th>
   </tr>
   <tr>
-    <th>Interest</th>
+    <th>Interests</th>
     <th>The Cats</th>
     <th>Mine</th>
   </tr>
