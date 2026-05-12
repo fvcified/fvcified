@@ -20,7 +20,7 @@
 </div>
 
 ```brainfuck
-[+ ~/on my own #fun & ley's goin' still]
+[+ ~/on my own #how fvncy, fireW, & ley's goin' still. ma will's]
    > github/fvcified
    > gitlab/fvcified
    > discord/@fvcified
