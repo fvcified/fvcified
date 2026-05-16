@@ -19,14 +19,6 @@
   </a>
 </div>
 
-```brainfuck
-[+ ~/on my own #how fireW, fvncy, & ley's goin' still. ma will's]
-   > github/fvcified
-   > gitlab/fvcified
-   > discord/@fvcified
-   > fvskid@gmail.com
-```
-
 ##
 
 ---
