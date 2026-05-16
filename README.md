@@ -28,10 +28,6 @@
     <th>Find me on</th>
   </tr>
   <tr>
-    <th>Interests</th>
-    <th>Mine</th>
-  </tr>
-  <tr>
     <td>
       <ul>
         <li>Reading</li>
