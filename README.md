@@ -56,7 +56,7 @@
 <p align="right">
   Best regards,
   <br>
-  <b>Nyc Xiao</b>
+  <b>Xiao Xli</b>
   <br>
   <img src="https://files.catbox.moe/m7vc0e.gif" width="70" />
 </p>
