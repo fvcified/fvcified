@@ -33,8 +33,8 @@
         <li>Reading</li>
         <li>Watching</li>
         <li>Listening</li>
-        <li>Playing Games</li>
         <li>Learning</li>
+        <li>Playing Games</li>
         <li>Find Something new</li>
         <li>Develop related stuff</li>
         <li>The Cats 🐈</li>
@@ -43,8 +43,11 @@
     <td align="center">
       <a href="https://github.com/fvcified"><img src="https://skillicons.dev/icons?i=github" /></a>
       <a href="https://gitlab.com/fvcified"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
-      <a href="https://open.spotify.com/user/31gupde4ngfbbksvy5q6pb6b2474"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="48" /></a>
-      <a href="https://discord.com/users/385617865820209172"><img src="https://skillicons.dev/icons?i=discord" /></a>
+      <a href="https://open.spotify.com/user/31gupde4ngfbbksvy5q6pb6b2474">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="48" /></a>
+      <a href="https://discord.com/users/385617865820209172">
+        <img src="https://skillicons.dev/icons?i=discord" />
+      </a>
     </td>
   </tr>
 </table>
