@@ -10,12 +10,12 @@
 <p align="right">
   Best regards,
   <br>
-  <b>Xiao Xli</b>
+  <b>thirteen</b>
   <br>
   <img src="https://files.catbox.moe/m7vc0e.gif" width="70" />
 </p>
 
 <p align="center">
   <img src="https://github.com/fvcified/fvcified/blob/401fabac7b4ed96ed7e4de0c335186df7329f63c/no-entry.png" width="13" />
-  <font><i><b>Light theme/summat, some might NOT be visible on ya.</b></i></font>
+  <font><i><b>How on earth did u manage to get in here, then?</b></i></font>
 </p>
