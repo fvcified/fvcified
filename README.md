@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/fvcified/fvcified/blob/401fabac7b4ed96ed7e4de0c335186df7329f63c/no-entry.png" width="13" />
+  <img src="https://github.com/fvcified/fvcified/blob/ed64f631da463b8f99a9def2ec4e8d225dfea609/no.png" width="13" />
   <font>
     <i><b>How on earth did u manage to get in here, then?</b></i>
   </font>
